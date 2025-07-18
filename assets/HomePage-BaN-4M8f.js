@@ -1,0 +1,1 @@
+import{j as a}from"./index-COdtfE6z.js";import{M as t}from"./MainLayout-BH4jgsBo.js";const s=({data:e})=>a.jsx("main",{className:"relative",children:a.jsx(t,{data:e?.homePage})});export{s as default};
