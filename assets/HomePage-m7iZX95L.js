@@ -1,1 +1,0 @@
-import{j as a}from"./index-_wWILXHj.js";import{M as t}from"./MainLayout-5K0xlIhh.js";const s=({data:e})=>a.jsx("main",{className:"relative",children:a.jsx(t,{data:e?.homePage})});export{s as default};

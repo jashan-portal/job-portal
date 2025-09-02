@@ -1,0 +1,1 @@
+import{j as a}from"./index-CPgILE_K.js";import{M as t}from"./MainLayout-EnxEKddd.js";const s=({data:e})=>a.jsx("main",{className:"relative",children:a.jsx(t,{data:e?.homePage})});export{s as default};
