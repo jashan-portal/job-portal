@@ -1,0 +1,1 @@
+import{j as a}from"./index-D_FkD4nW.js";import{M as e}from"./MainLayout-CfP72ro5.js";const n=({data:s})=>a.jsx("div",{className:"min-h-screen",children:a.jsx(e,{data:s?.newLocationsPage})});export{n as default};
