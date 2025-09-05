@@ -1,0 +1,1 @@
+import{j as r}from"./index-DJ1gfUyC.js";import{M as s}from"./MainLayout-BzEc-rkT.js";const o=({data:a})=>r.jsx("div",{className:"min-h-screen",children:r.jsx(s,{data:a?.storyPage})});export{o as default};
