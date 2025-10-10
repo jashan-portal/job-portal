@@ -1,1 +1,0 @@
-import{j as r}from"./index-SovaOqo3.js";import{M as s}from"./MainLayout-D7PQ7HaU.js";const o=({data:a})=>r.jsx("div",{className:"min-h-screen",children:r.jsx(s,{data:a?.storyPage})});export{o as default};
