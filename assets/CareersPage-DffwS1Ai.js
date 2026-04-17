@@ -1,0 +1,1 @@
+import{j as e}from"./index-Jx8zaJ5c.js";import{M as a}from"./MainLayout-DwhW60kc.js";const t=({data:r})=>e.jsx("div",{className:"min-h-screen overflow-x-hidden",children:e.jsx(a,{data:r?.careersPage})});export{t as default};
