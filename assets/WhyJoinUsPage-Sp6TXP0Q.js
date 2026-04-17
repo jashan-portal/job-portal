@@ -1,0 +1,1 @@
+import{j as s}from"./index-CILSn1BD.js";import{M as e}from"./MainLayout-BTJOrC01.js";const t=({data:a})=>s.jsx("div",{className:"min-h-screen",children:s.jsx(e,{data:a?.whyJoinUsPage})});export{t as default};
